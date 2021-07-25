@@ -4,3 +4,4 @@
 <br>data science methodology - https://coursera.org/share/608aa2cc387c2707dbfbbca8096d7d55 
 <br>database and sql for data science - https://coursera.org/share/4019db82f5594cfa49f5339aea6b93bf 
 <br>tools for data science - https://coursera.org/share/c6762f34262a3b6f5bc4614458190877
+<br>Python project for data science - https://coursera.org/share/73d7d1710a650fb842086c16793eb9f3
