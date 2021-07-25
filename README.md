@@ -5,3 +5,4 @@
 <br>database and sql for data science - https://coursera.org/share/4019db82f5594cfa49f5339aea6b93bf 
 <br>tools for data science - https://coursera.org/share/c6762f34262a3b6f5bc4614458190877
 <br>Python project for data science - https://coursera.org/share/73d7d1710a650fb842086c16793eb9f3
+<br>Python for Data Science, AI and Development - https://coursera.org/share/bef9cd35004c0e2d26f2eea761363605
